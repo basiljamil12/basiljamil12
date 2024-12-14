@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Basil Jamil</h1>
+
 # 💫 About Me:
 🔭 MERN Stack developer responsible for responsive, maintainable and scalable websites at my day job and as a freelancer<br>👯 Looking to collaborate on exciting and innovative mobile and web projects<br>🌱 I’m currently learning Next JS, ASP.NET, POSTGRES, MYSQL and very soon GO<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: basiljamil1@hotmail.com<br>⚡ Fun fact: Been a professional Valorant Player
 
